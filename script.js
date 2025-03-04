@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let courses = [];
 
     // Fetch data from JSON file
-    fetch("subjects.json")
+    fetch("subject.json")
         .then(response => response.json())
         .then(data => {
             courses = data.courses;
