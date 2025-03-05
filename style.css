@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f3f7;
+    background-color: #FFFBF5;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: #4A4A4A;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #ffccd5;
+    background-color: #FFD1DC;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     position: relative;
 }
@@ -19,7 +19,7 @@ header {
 .logo-text {
     font-size: 18px;
     font-weight: bold;
-    color: #6a0572;
+    color: #6B4226;
     white-space: nowrap;
 }
 
@@ -28,13 +28,13 @@ header {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    background: #f3c4fb;
+    background: #FFDAC1;
     border-radius: 8px;
     transition: background 0.3s, transform 0.2s;
 }
 
 .nav-menu li a:hover {
-    background-color: #dba5f5;
+    background-color: #FFC3A0;
     transform: scale(1.05);
 }
 
@@ -44,7 +44,7 @@ header {
     align-items: center;
     padding: 80px;
     text-align: left;
-    background-color: #fff0f5;
+    background-color: #FFF1E6;
 }
 
 .profile-pic {
@@ -58,21 +58,21 @@ header {
 
 .social-container h1 {
     font-size: 32px;
-    color: #6a0572;
+    color: #6B4226;
 }
 
 .social-btn {
-    background-color: #ffb6c1;
+    background-color: #FFABAB;
 }
 
 button {
-    background-color: #f3c4fb;
-    color: #6a0572;
+    background-color: #FFDAC1;
+    color: #6B4226;
     transition: background 0.3s ease-in-out;
 }
 
 button:hover {
-    background-color: #dba5f5;
+    background-color: #FFC3A0;
 }
 
 .table-container {
@@ -81,10 +81,10 @@ button:hover {
 }
 
 th {
-    background: #ffccd5;
-    color: #6a0572;
+    background: #FFD1DC;
+    color: #6B4226;
 }
 
 tbody tr:hover {
-    background-color: #f8d7da;
+    background-color: #FFEBE0;
 }
